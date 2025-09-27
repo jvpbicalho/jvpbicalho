@@ -40,6 +40,7 @@ Estudante de Ciência da Computação em PUC-SP | Desenvolvedor de Software | Ga
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-JoãoVPBicalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joao-victor-p-bicalho)](www.linkedin.com/in/joao-victor-p-bicalho)
-[![Gmail Badge](https://img.shields.io/badge/-jvpbicalho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvpbicalho@gmail.com)](mailto:jvpbicalho@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/jvpbicalho?label=follow&style=social)](https://github.com/jvpbicalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-p-bicalho)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvpbicalho@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvpbicalho)
+
