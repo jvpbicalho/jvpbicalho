@@ -44,3 +44,4 @@ Estudante de Ciência da Computação em PUC-SP | Desenvolvedor de Software | Ga
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvpbicalho@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvpbicalho)
 
+
