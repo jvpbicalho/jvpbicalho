@@ -33,15 +33,12 @@ Estudante de Ciência da Computação em PUC-SP | Desenvolvedor de Software | Ga
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 
-<br/>
-
-## 📊 GitHub Stats
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvpbicalho&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpbicalho&layout=compact&langs_count=8&theme=tokyonight)
+## 📊 GitHub Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvpbicalho&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvpbicalho&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvpbicalho&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvpbicalho&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jvpbicalho&theme=tokyonight)
 
 
 ## Onde me encontrar
