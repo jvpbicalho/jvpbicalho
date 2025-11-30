@@ -35,8 +35,14 @@ Estudante de Ciência da Computação em PUC-SP | Desenvolvedor de Software | Ga
 
 <br/>
 
-![jvpbicalho's Stats](https://github-readme-stats.vercel.app/api?username=jvpbicalho&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![jvpbicalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpbicalho&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+## 📊 GitHub Stats
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvpbicalho&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpbicalho&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ## Onde me encontrar
 
